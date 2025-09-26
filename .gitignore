@@ -1,0 +1,38 @@
+# System files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Django
+db.sqlite3
+*.log
+
+# Local env files
+.env
+.env.*
+.env.local
+.env.*.local
+
+# Models, if storing trained models locally
+/models/
+
+# Node (if not used in this Django project, can be omitted)
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editors/IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
