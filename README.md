@@ -1,15 +1,10 @@
 ## Sentiment Analysis
 
-## Live Link : https://kyn.zeal.ninja/
-
-**Demo Video Link:** https://youtu.be/0UiwfRd5fiE
-
-
 > ### Step-by-Step Guide to Setting Up and Running the Application
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/williyam-m/sentiment_analysis.git
+   git clone https://github.com/Umaelangovan06/fullstack_sentiment_analysis.git
    ```
 
 2. **Navigate into the Repository Directory**
